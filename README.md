@@ -1,2 +1,2 @@
-# covid-random-fun
+# covid-random
 Random projects for covid
